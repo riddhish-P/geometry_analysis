@@ -31,7 +31,7 @@ def calculate_distance(rA, rB):
     return distance
 
 
-def calculate_angle(rA, rB, rC, degrees=False):
+def calculate_angle(rA, rB, rC , degrees=False):
     """Calculate angle between points A, B, and C
     
     Parameters
